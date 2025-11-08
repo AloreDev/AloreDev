@@ -22,10 +22,10 @@ Back-end developer & web designer
 -  👯 I’m looking to collaborate on ecommerce software engineering projects
 
 
-<!-- STATS ------------------------------------------------------------------- -->
+<!-- STATS ------------------------------------------------------------------- 
 ## Github Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aloredev&show_icons=true&locale=en&layout=compact" alt="AloreDev" />
-
+-->
 
 <!-- SKILLS ------------------------------------------------------------------- -->
 ## Skills
